@@ -1,56 +1,51 @@
-# Calculator in Flutter
+# Flutter Calculator
 
-This is my first personal project developed entirely using **Flutter**. It's a simple calculator built to help me improve my skills in mobile development.
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-3.x-blue?style=for-the-badge&logo=dart)](https://dart.dev/)
 
-## Project Goal
 
-The main goal of this project was to put into practice what I've been learning about cross-platform mobile development using Flutter. I chose to create a calculator because it's a straightforward application, yet it presents enough challenges to explore essential concepts like UI design, state management, and basic app functionality.
+## About The Project
 
-## Features
+This project is a simple, clean calculator application for mobile devices, built entirely with Flutter and Dart. It was developed as a foundational learning project to practice Dart programming logic and understand the basics of building user interfaces with the Flutter framework.
 
-- Basic operations: addition, subtraction, multiplication, and division.
-- User-friendly
-- Quick clear functionality.
-- Real-time display of the result as the user inputs values.
+The app provides standard arithmetic operations in a user-friendly and responsive layout.
 
-## Technologies Used
+## Getting Started
 
-- **Flutter**: The framework used for the app development.
-- **Dart**: The programming language used to write the app's logic.
+To get a local copy up and running, follow these simple steps.
 
-## Learnings
+### Prerequisites
 
-Building this calculator helped me:
-- Gain a better understanding of the widget lifecycle in Flutter.
-- Learn more about responsive layouts and state management.
-- Improve my debugging and code optimization skills.
+Ensure you have the Flutter SDK installed on your machine. For installation instructions, please refer to the [official Flutter documentation](https://flutter.dev/docs/get-started/install).
 
-***
+* Flutter SDK
+* Dart SDK (comes with Flutter)
 
-# Calculadora em Flutter
+### Installation
 
-Este é o meu primeiro projeto pessoal desenvolvido inteiramente com **Flutter**. Trata-se de uma calculadora simples, criada para me ajudar a melhorar minhas habilidades em desenvolvimento mobile.
+1.  Clone the repository to your local machine.
+    ```bash
+    git clone https://github.com/BBennemann/Flutter-Calculator.git
+    ```
+2.  Navigate to the project directory.
+    ```bash
+    cd Flutter-Calculator
+    ```
+3.  Install the required packages.
+    ```bash
+    flutter pub get
+    ```
 
-## Objetivo do Projeto
+## Usage Instructions
 
-O principal objetivo deste projeto foi colocar em prática o que tenho aprendido sobre desenvolvimento mobile multiplataforma utilizando Flutter. Escolhi desenvolver uma calculadora por ser uma aplicação simples, mas que apresenta desafios suficientes para explorar conceitos essenciais, como design de interface, gerenciamento de estado e funcionalidades básicas de uma aplicação.
+To run the application, make sure you have an emulator running or a physical device connected. Then, execute the following command in your terminal:
 
-## Funcionalidades
+```bash
+flutter run
+```
 
-- Operações básicas: adição, subtração, multiplicação e divisão.
-- Interface amigável e responsiva.
-- Função de limpar rapidamente as entradas.
-- Exibição em tempo real do resultado conforme o usuário insere os valores.
+The application will build and install on your target device.
 
-## Tecnologias Utilizadas
+## Contributors
 
-- **Flutter**: Framework utilizado no desenvolvimento da aplicação.
-- **Dart**: Linguagem de programação utilizada para escrever a lógica do aplicativo.
-
-## Aprendizados
-
-Desenvolver esta calculadora me ajudou a:
-- Compreender melhor o ciclo de vida dos widgets no Flutter.
-- Aprender mais sobre layouts responsivos e gerenciamento de estado.
-- Melhorar minhas habilidades de depuração e otimização de código.
-
+* **Bernardo Thomas Bennemann** - *Project Owner* - [BBennemann](https://github.com/BBennemann)
